@@ -46,3 +46,8 @@
 .metrics-dra.dt.hicloud.com
 .affiliationjs.s3.amazonaws.com
 .amazonclix.com
+.mouseflow.com
+.freshmarketer.com
+.claritybt.freshmarketer.com
+.cdn.luckyorange.com
+.w1.luckyorange.com
