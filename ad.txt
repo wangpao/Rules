@@ -44,3 +44,5 @@
 .ads-dev.pinterest.com
 .ads.reddit.com
 .metrics-dra.dt.hicloud.com
+.affiliationjs.s3.amazonaws.com
+.amazonclix.com
