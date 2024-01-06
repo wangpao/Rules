@@ -34,3 +34,8 @@
 .bdapi-in-ads.realmemobile.com
 .ck.ads.oppomobile.com
 .click.oneplus.cn
+.app.bugsnag.com
+.browser.sentry-cdn.com
+.ads-sg.tiktok.com
+.ads.tiktok.com
+.adtech.yahooinc.com
