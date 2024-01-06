@@ -39,3 +39,8 @@
 .ads-sg.tiktok.com
 .ads.tiktok.com
 .adtech.yahooinc.com
+.advertising.twitter.com
+.ads.facebook.com
+.ads-dev.pinterest.com
+.ads.reddit.com
+.metrics-dra.dt.hicloud.com
